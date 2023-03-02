@@ -1,0 +1,15 @@
+ .wrapper{
+  display: flex;
+ }
+ 
+ .said_bar{
+   width: 300px;
+   height: 100vh;
+   background-color: #253141;
+ }
+ 
+ .chat{
+   width: calc(100vw-300px);
+   height: 100vh;
+   background-color: #ffffff;
+ }
